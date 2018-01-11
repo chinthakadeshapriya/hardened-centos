@@ -1,0 +1,2 @@
+# hardened-centos
+Hardened CentOS
